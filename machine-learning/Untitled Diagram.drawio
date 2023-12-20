@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T07:07:50.001Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="hqh8cKSMAL_ZW61FuaT0" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T07:21:06.898Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ULzzQm6JzQq0MIrBqzyJ" version="22.1.11" type="github">
   <diagram name="Page-1" id="5987fedf-629e-85c4-6858-42fee31821dd">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="1" shadow="0">
       <root>
@@ -756,8 +756,8 @@
             <mxPoint x="725.585" y="145.78499999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7eN0rarvtx-bE8pj64Mk-9" value="Average Pooling" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;fontStyle=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="418.11" y="111.03" width="160" height="30" as="geometry" />
+        <mxCell id="7eN0rarvtx-bE8pj64Mk-9" value="SyntaxGCN Layers " style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="299.89" y="110" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7eN0rarvtx-bE8pj64Mk-79" value="The" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="522.01" y="707" width="50" height="30" as="geometry" />
@@ -2515,7 +2515,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7eN0rarvtx-bE8pj64Mk-1048" value="" style="strokeWidth=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1028.71" y="267" width="8.57" height="42" as="geometry" />
+          <mxGeometry x="1029.92" y="267.79" width="7.15" height="39" as="geometry" />
         </mxCell>
         <mxCell id="7eN0rarvtx-bE8pj64Mk-1051" value="" style="rounded=0;aspect=fixed;fillColor=default;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1088.89" y="274.96" width="6.02" height="3" as="geometry" />
@@ -2523,8 +2523,8 @@
         <mxCell id="7eN0rarvtx-bE8pj64Mk-1055" value="x N" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1356" y="336.08" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7eN0rarvtx-bE8pj64Mk-1056" value="Average Pooling" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;fontStyle=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="933.7" y="110" width="160" height="30" as="geometry" />
+        <mxCell id="7eN0rarvtx-bE8pj64Mk-1056" value="Contextual Layers" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="108" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7eN0rarvtx-bE8pj64Mk-1057" value="BiAffine" style="rounded=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="715.53" y="145.26" width="97" height="52" as="geometry" />
@@ -2657,6 +2657,12 @@
             <mxPoint x="968.43" y="678" as="sourcePoint" />
             <mxPoint x="968.43" y="658" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7eN0rarvtx-bE8pj64Mk-1292" value="pooling" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="933.0600000000001" y="115.25999999999999" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7eN0rarvtx-bE8pj64Mk-1293" value="pooling" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="507.59000000000003" y="115.25999999999999" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
