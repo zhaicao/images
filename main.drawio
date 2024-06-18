@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-06T04:15:13.238Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="B1bFwQlD3rUjNTcw0gom" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-18T06:58:36.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Ze5OZPohyWa2tOWoHRry" version="24.5.5" type="github">
   <diagram name="Page-1" id="5987fedf-629e-85c4-6858-42fee31821dd">
-    <mxGraphModel dx="1434" dy="1995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="1" shadow="0">
+    <mxGraphModel dx="478" dy="1491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -664,11 +664,11 @@
             <mxPoint x="1019.7799999999997" y="-428" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7eN0rarvtx-bE8pj64Mk-1292" value="MeanPooling" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1000.21" y="-898" width="120" height="30" as="geometry" />
+        <mxCell id="7eN0rarvtx-bE8pj64Mk-1292" value="AveragePooling" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1012.21" y="-900" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7eN0rarvtx-bE8pj64Mk-1297" value="MeanPooling" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="633.5600000000001" y="-899" width="120" height="30" as="geometry" />
+        <mxCell id="7eN0rarvtx-bE8pj64Mk-1297" value="AveragePooling" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1;html=1;" parent="1" vertex="1">
+          <mxGeometry x="612.5600000000001" y="-900" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7eN0rarvtx-bE8pj64Mk-1400" value="" style="endArrow=blockThin;rounded=0;entryX=0.489;entryY=1.026;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endFill=1;html=1;" parent="1" source="7eN0rarvtx-bE8pj64Mk-1395" target="7eN0rarvtx-bE8pj64Mk-1467" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1987,7 +1987,7 @@
             <mxPoint x="586.98" y="-937" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zejlW-CFWih1nL8CeKeG-33" value="" style="endArrow=blockThin;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.02;entryY=0.811;entryDx=0;entryDy=0;endFill=1;html=1;entryPerimeter=0;" parent="1" source="a6HKProFj9jTeA71BcWB-115" target="7eN0rarvtx-bE8pj64Mk-1292" edge="1">
+        <mxCell id="zejlW-CFWih1nL8CeKeG-33" value="" style="endArrow=blockThin;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=1;html=1;" parent="1" source="a6HKProFj9jTeA71BcWB-115" target="7eN0rarvtx-bE8pj64Mk-1031" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="989.95" y="-849.63" as="sourcePoint" />
             <mxPoint x="989.593672985782" y="-873.997654028436" as="targetPoint" />
