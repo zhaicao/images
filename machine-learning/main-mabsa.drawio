@@ -574,10 +574,10 @@
         <mxCell id="05cj451iSyLvhAONUjFt-1" value="" style="rounded=1;dashed=1;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-600" y="-300" width="224" height="224" as="geometry" />
         </mxCell>
-        <mxCell id="05cj451iSyLvhAONUjFt-2" value="Text Input" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="05cj451iSyLvhAONUjFt-2" value="Input Text" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-170" y="-287" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="05cj451iSyLvhAONUjFt-3" value="Aspect Input" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="05cj451iSyLvhAONUjFt-3" value="Input Aspect" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="60" y="-287" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="05cj451iSyLvhAONUjFt-4" value="RoBERTa" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
