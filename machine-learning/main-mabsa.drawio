@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.7">
   <diagram name="第 1 页" id="8k2AreSDYqxC22VC2qsZ">
-    <mxGraphModel dx="1396" dy="1548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2021" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -691,7 +691,7 @@
         <mxCell id="05cj451iSyLvhAONUjFt-53" value="Multi-Head Attention" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-403.5" y="-670" width="224" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="05cj451iSyLvhAONUjFt-54" value="Fully-Connected" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="05cj451iSyLvhAONUjFt-54" value="Fully-Connection" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-403.5" y="-790" width="224" height="60" as="geometry" />
         </mxCell>
         <mxCell id="05cj451iSyLvhAONUjFt-55" value="" style="rounded=1;html=1;fontSize=15;glass=0;shadow=0;arcSize=50;" vertex="1" parent="1">
@@ -753,8 +753,8 @@
             <mxPoint x="-291" y="-700" as="sourcePoint" />
             <mxPoint x="-300.97999999999683" y="-820.52" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-440" y="-700" />
-              <mxPoint x="-440" y="-820" />
+              <mxPoint x="-420" y="-700" />
+              <mxPoint x="-420" y="-820" />
             </Array>
           </mxGeometry>
         </mxCell>
