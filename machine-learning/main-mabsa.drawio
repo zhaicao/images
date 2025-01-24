@@ -1591,7 +1591,7 @@
         <mxCell id="05cj451iSyLvhAONUjFt-723" value="GCN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-298.52" y="-982" width="224" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="05cj451iSyLvhAONUjFt-724" value="GCN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="05cj451iSyLvhAONUjFt-724" value="Fine-grained Alignment GCN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-288.52" y="-972" width="224" height="60" as="geometry" />
         </mxCell>
         <mxCell id="05cj451iSyLvhAONUjFt-725" value="" style="endArrow=block;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=1;" edge="1" parent="1" target="05cj451iSyLvhAONUjFt-724">
