@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.7">
   <diagram name="第 1 页" id="8k2AreSDYqxC22VC2qsZ">
-    <mxGraphModel dx="2021" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1396" dy="1548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -825,6 +825,19 @@
             <Array as="points">
               <mxPoint x="-81" y="-530" />
               <mxPoint x="104" y="-530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="05cj451iSyLvhAONUjFt-92" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-287.48" y="-580" width="18.95734597156398" height="18.96" as="geometry" />
+        </mxCell>
+        <mxCell id="05cj451iSyLvhAONUjFt-93" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="05cj451iSyLvhAONUjFt-92">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-79" y="-530" as="sourcePoint" />
+            <mxPoint x="-270" y="-560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-82.52000000000001" y="-530" />
+              <mxPoint x="-278" y="-530" />
             </Array>
           </mxGeometry>
         </mxCell>
