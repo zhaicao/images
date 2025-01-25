@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.7">
   <diagram name="第 1 页" id="89vJBJVzQ6p3oRt0uOno">
-    <mxGraphModel dx="995" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="391" dy="261" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BDlRwHxG_kEXWN9z024I-1" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Robert Gates&lt;/b&gt;&amp;nbsp;says he questions Hillary Clinton &#39; s judgment in using a private email server&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="189" y="520" width="621" height="60" as="geometry" />
+          <mxGeometry x="189" y="516" width="621" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BDlRwHxG_kEXWN9z024I-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="147" y="300" width="705" height="170" as="geometry" />
@@ -102,6 +102,27 @@
         </mxCell>
         <mxCell id="BDlRwHxG_kEXWN9z024I-37" value="RoBERTa Encoder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="409.5" y="202" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BDlRwHxG_kEXWN9z024I-38" value="" style="endArrow=block;html=1;rounded=0;endFill=1;exitX=0.503;exitY=0.007;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.503;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BDlRwHxG_kEXWN9z024I-1" target="BDlRwHxG_kEXWN9z024I-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="501.08900000000017" y="520.9000000000001" as="sourcePoint" />
+            <mxPoint x="501" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDlRwHxG_kEXWN9z024I-40" value="" style="endArrow=block;html=1;rounded=0;endFill=1;exitX=0.5;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.499;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BDlRwHxG_kEXWN9z024I-2" target="BDlRwHxG_kEXWN9z024I-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="229" as="sourcePoint" />
+            <mxPoint x="670" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDlRwHxG_kEXWN9z024I-42" value="" style="endArrow=block;html=1;rounded=0;endFill=1;exitX=0.502;exitY=-0.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BDlRwHxG_kEXWN9z024I-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="200" as="sourcePoint" />
+            <mxPoint x="500" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDlRwHxG_kEXWN9z024I-43" value="$$H_s$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="128" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
