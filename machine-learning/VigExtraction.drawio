@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.8">
   <diagram name="第 1 页" id="UDlxZD-7yvTXt20xS6oj">
-    <mxGraphModel dx="4042" dy="2761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2981" dy="2053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -891,11 +891,14 @@
         <mxCell id="5de8GxAfkGyDar-mVyjA-270" value="Feature Transform" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="788" y="-693" width="154" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5de8GxAfkGyDar-mVyjA-271" value="Graph" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-217" y="-690" width="154" height="30" as="geometry" />
+        <mxCell id="5de8GxAfkGyDar-mVyjA-271" value="Vision Graph Neural Network" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="536" y="-1090" width="234" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5de8GxAfkGyDar-mVyjA-272" value="$$N\text{&amp;nbsp; patches}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-684.5" y="-693" width="154" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5de8GxAfkGyDar-mVyjA-273" value="Graph" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-207" y="-680" width="154" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
