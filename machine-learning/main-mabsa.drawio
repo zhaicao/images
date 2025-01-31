@@ -1037,54 +1037,6 @@
         <mxCell id="05cj451iSyLvhAONUjFt-798" value="judgment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontSize=8;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
           <mxGeometry x="-125.43999999999997" y="-548.23" width="28" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="05cj451iSyLvhAONUjFt-808" value="Tom" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontSize=8;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="-108" y="-956.1" width="28" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="05cj451iSyLvhAONUjFt-809" value="Cotton" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontSize=8;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="-99.51999999999998" y="-885.1" width="28" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="05cj451iSyLvhAONUjFt-810" value="Rips" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontSize=8;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="-106.03999999999996" y="-916.1" width="28" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="05cj451iSyLvhAONUjFt-811" value="Bitter" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontSize=8;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="-103.51999999999998" y="-897.1" width="28" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="05cj451iSyLvhAONUjFt-812" value="Vulgar" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontSize=8;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="-99.51999999999998" y="-825.1" width="28" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="05cj451iSyLvhAONUjFt-813" value="Harry&amp;nbsp;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontSize=8;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="-100.51999999999998" y="-805.1" width="28" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="05cj451iSyLvhAONUjFt-814" value="Reid&#39;s" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontSize=8;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="-99.51999999999998" y="-785.1" width="28" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="05cj451iSyLvhAONUjFt-815" value="Leadership&amp;nbsp;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontSize=8;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="-79.99999999999994" y="-765.1" width="28" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="05cj451iSyLvhAONUjFt-822" value="Robert" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontSize=8;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="-295" y="-1011" width="28" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="05cj451iSyLvhAONUjFt-823" value="Gates" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontSize=8;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="-275" y="-1011" width="28" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="05cj451iSyLvhAONUjFt-824" value="Rips" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontSize=8;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="-257" y="-1005" width="28" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="05cj451iSyLvhAONUjFt-825" value="Bitter" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontSize=8;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="-236" y="-1008" width="28" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="05cj451iSyLvhAONUjFt-826" value="Vulgar" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontSize=8;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="-215" y="-1012" width="28" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="05cj451iSyLvhAONUjFt-827" value="Harry&amp;nbsp;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontSize=8;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="-196" y="-1010" width="28" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="05cj451iSyLvhAONUjFt-828" value="Reid&#39;s" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontSize=8;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="-176" y="-1011" width="28" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="05cj451iSyLvhAONUjFt-829" value="Leadership&amp;nbsp;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontSize=8;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
-          <mxGeometry x="-152" y="-1030.9999999999998" width="28" height="16" as="geometry" />
-        </mxCell>
         <mxCell id="05cj451iSyLvhAONUjFt-830" value="Cosine similarity" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-336" y="-444.75" width="117" height="35" as="geometry" />
         </mxCell>
