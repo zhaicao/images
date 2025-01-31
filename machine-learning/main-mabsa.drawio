@@ -2158,7 +2158,7 @@
         <mxCell id="fm50z53q-H0IZ5_onClO-276" value="$$\sigma$$" style="ellipse;aspect=fixed;shadow=0;rotation=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="19.26500000000013" y="-1003.3449999999998" width="18.95734597156398" height="18.95734597156398" as="geometry" />
         </mxCell>
-        <mxCell id="fm50z53q-H0IZ5_onClO-277" value="Prediction" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=15;html=1;" vertex="1" parent="1">
+        <mxCell id="fm50z53q-H0IZ5_onClO-277" value="Output" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=15;html=1;" vertex="1" parent="1">
           <mxGeometry x="-22.98999999999998" y="-1058" width="103.47" height="39.52" as="geometry" />
         </mxCell>
         <mxCell id="fm50z53q-H0IZ5_onClO-278" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fm50z53q-H0IZ5_onClO-261" target="fm50z53q-H0IZ5_onClO-276">
