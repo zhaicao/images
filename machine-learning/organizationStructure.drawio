@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="第 1 页" id="vcJ40VZtM2WvYGcIBnFR">
-    <mxGraphModel dx="1151" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="952" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,6 +72,47 @@
         </mxCell>
         <mxCell id="hmpepv-ZfLbdPi0fOxTO-42" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;实验结果对比与分析&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="340" y="862" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="hmpepv-ZfLbdPi0fOxTO-43" value="研究问题" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="40" y="154" width="30" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hmpepv-ZfLbdPi0fOxTO-44" value="研究问题" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="40" y="324.5" width="30" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hmpepv-ZfLbdPi0fOxTO-45" value="基于核心问题的解决方案" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="40" y="578" width="30" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="hmpepv-ZfLbdPi0fOxTO-46" value="" style="endArrow=block;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" edge="1" parent="1" source="hmpepv-ZfLbdPi0fOxTO-43" target="hmpepv-ZfLbdPi0fOxTO-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="130" as="sourcePoint" />
+            <mxPoint x="100" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hmpepv-ZfLbdPi0fOxTO-47" value="" style="endArrow=block;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" edge="1" parent="1" source="hmpepv-ZfLbdPi0fOxTO-44" target="hmpepv-ZfLbdPi0fOxTO-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="199" as="sourcePoint" />
+            <mxPoint x="120" y="199" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hmpepv-ZfLbdPi0fOxTO-48" value="" style="endArrow=block;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" edge="1" parent="1" source="hmpepv-ZfLbdPi0fOxTO-45" target="hmpepv-ZfLbdPi0fOxTO-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="370" as="sourcePoint" />
+            <mxPoint x="120" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="673" />
+              <mxPoint x="90" y="551" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hmpepv-ZfLbdPi0fOxTO-49" value="" style="endArrow=block;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hmpepv-ZfLbdPi0fOxTO-45" target="hmpepv-ZfLbdPi0fOxTO-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="685" as="sourcePoint" />
+            <mxPoint x="90" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="673" />
+              <mxPoint x="90" y="795" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
