@@ -5,7 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hmpepv-ZfLbdPi0fOxTO-2" value="&lt;font&gt;&lt;font style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;line-height: 22.5px; font-family: 黑体;&quot;&gt;基于方面感知和多通道特征融合的&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left; background-color: transparent; font-family: 黑体;&quot;&gt;方面级情感分析算法研究&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="214" y="70" width="400" height="35" as="geometry" />
+          <mxGeometry x="214" y="40" width="400" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="hmpepv-ZfLbdPi0fOxTO-3" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;绪论&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="381" y="110" width="66" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="hmpepv-ZfLbdPi0fOxTO-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;研究背景及意义&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="150" y="170" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="hmpepv-ZfLbdPi0fOxTO-5" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;研究背景及意义&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="580" y="170" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="hmpepv-ZfLbdPi0fOxTO-8" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;研究内容与创新&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="360" y="230" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
