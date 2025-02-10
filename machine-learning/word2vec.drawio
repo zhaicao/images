@@ -1,26 +1,26 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="第 1 页" id="m1aWo5boRgaScrbksMZL">
-    <mxGraphModel dx="658" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="952" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Wfq07vaS3QpHIXOTxXQo-4" value="$$W_{t-2}$$" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="1">
-          <mxGeometry x="100" y="140" width="70" height="40" as="geometry" />
+          <mxGeometry x="129" y="152" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Wfq07vaS3QpHIXOTxXQo-5" value="$$W_{t-1}$$" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="1">
-          <mxGeometry x="100" y="210" width="70" height="40" as="geometry" />
+          <mxGeometry x="129" y="222" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Wfq07vaS3QpHIXOTxXQo-7" value="$$W_{t+1}$$" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="1">
-          <mxGeometry x="100" y="350" width="70" height="40" as="geometry" />
+          <mxGeometry x="129" y="338" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Wfq07vaS3QpHIXOTxXQo-8" value="$$W_{t+2}$$" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="1">
-          <mxGeometry x="100" y="420" width="70" height="40" as="geometry" />
+          <mxGeometry x="129" y="408" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Wfq07vaS3QpHIXOTxXQo-9" value="SUM" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="310" y="280" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Wfq07vaS3QpHIXOTxXQo-10" value="$$W_t$$" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="1">
-          <mxGeometry x="520" y="280" width="70" height="40" as="geometry" />
+          <mxGeometry x="481" y="280" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Wfq07vaS3QpHIXOTxXQo-11" value="" style="endArrow=block;html=1;rounded=0;exitX=0;exitY=0;exitDx=70;exitDy=25;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;endFill=1;" edge="1" parent="1" source="Wfq07vaS3QpHIXOTxXQo-4" target="Wfq07vaS3QpHIXOTxXQo-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
