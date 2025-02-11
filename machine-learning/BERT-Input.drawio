@@ -1,9 +1,45 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="第 1 页" id="7o9o7aiiVrodikOosvhP">
-    <mxGraphModel>
+    <mxGraphModel dx="952" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-1" value="[CLS]" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="140" y="480" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-2" value="百" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="210" y="480" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-3" value="竿" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="350" y="480" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-4" value="头" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="420" y="480" width="57.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-5" value="[SEP]" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="490" y="480" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-6" value="进" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="630" y="480" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-7" value="一" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="700" y="480" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-8" value="尺" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="280" y="480" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-9" value="更" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="560" y="480" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-10" value="输入层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="77" y="485" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-11" value="步" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="770" y="480" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-12" value="[SEP]" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="840" y="480" width="55.01" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
