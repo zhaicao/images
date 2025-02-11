@@ -868,6 +868,18 @@
         <mxCell id="-tx0It79HoAxkITkTDKW-206" value="输出层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="77" y="165" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="-tx0It79HoAxkITkTDKW-207" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="477.5" width="280" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="-tx0It79HoAxkITkTDKW-208" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="477.5" width="280" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="-tx0It79HoAxkITkTDKW-209" value="句子A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="343.51" y="522.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-tx0It79HoAxkITkTDKW-210" value="句子B" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="740" y="522.5" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
