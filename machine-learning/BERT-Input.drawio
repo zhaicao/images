@@ -31,14 +31,128 @@
         <mxCell id="gwdvWo7OpEAvEBSIEt_a-9" value="更" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="560" y="480" width="55.01" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gwdvWo7OpEAvEBSIEt_a-10" value="输入层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="77" y="485" width="60" height="30" as="geometry" />
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-10" value="输入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="63.5" y="485" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gwdvWo7OpEAvEBSIEt_a-11" value="步" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="770" y="480" width="55.01" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gwdvWo7OpEAvEBSIEt_a-12" value="[SEP]" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="840" y="480" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-13" value="[CLS]" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="140" y="390" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-14" value="百" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="210" y="390" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-15" value="竿" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="350" y="390" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-16" value="头" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="420" y="390" width="57.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-17" value="[SEP]" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="490" y="390" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-18" value="进" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="630" y="390" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-19" value="一" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="700" y="390" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-20" value="尺" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="280" y="390" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-21" value="更" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="560" y="390" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-22" value="位置向量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="60" y="395" width="67" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-23" value="步" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="770" y="390" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-24" value="[SEP]" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="840" y="390" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-25" value="[CLS]" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="140" y="300" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-26" value="百" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="210" y="300" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-27" value="竿" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="350" y="300" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-28" value="头" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="420" y="300" width="57.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-29" value="[SEP]" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="490" y="300" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-30" value="进" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="630" y="300" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-31" value="一" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="700" y="300" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-32" value="尺" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="280" y="300" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-33" value="更" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="560" y="300" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-34" value="段向量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="63.5" y="305" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-35" value="步" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="770" y="300" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-36" value="[SEP]" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="840" y="300" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-37" value="[CLS]" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="140" y="220" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-38" value="百" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="210" y="220" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-39" value="竿" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="350" y="220" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-40" value="头" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="420" y="220" width="57.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-41" value="[SEP]" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="490" y="220" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-42" value="进" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="630" y="220" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-43" value="一" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="700" y="220" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-44" value="尺" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="280" y="220" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-45" value="更" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="560" y="220" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-46" value="词向量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="63.5" y="225" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-47" value="步" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="770" y="220" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-48" value="[SEP]" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="840" y="220" width="55.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-49" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="456" as="sourcePoint" />
+            <mxPoint x="900" y="456" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
