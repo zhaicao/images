@@ -31,7 +31,7 @@
             <mxPoint x="670" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RzPd5jYL5kc_TmFL2Cuv-9" value="$$\text{Relu}(x)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="RzPd5jYL5kc_TmFL2Cuv-9" value="$$\text{relu}(x)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="340" y="295" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RzPd5jYL5kc_TmFL2Cuv-10" value="$$x$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
@@ -71,7 +71,7 @@
         <mxCell id="RzPd5jYL5kc_TmFL2Cuv-19" value="$$f(x)+x$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="582.5" y="330" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RzPd5jYL5kc_TmFL2Cuv-20" value="$$\text{Relu}(x)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="RzPd5jYL5kc_TmFL2Cuv-20" value="$$\text{relu}(x)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="680" y="295" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RzPd5jYL5kc_TmFL2Cuv-21" value="skip connection" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
