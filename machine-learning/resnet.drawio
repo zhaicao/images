@@ -71,8 +71,8 @@
         <mxCell id="RzPd5jYL5kc_TmFL2Cuv-19" value="$$f(x)+x$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="582.5" y="330" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RzPd5jYL5kc_TmFL2Cuv-20" value="$$\text{relu}(x)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="680" y="295" width="60" height="30" as="geometry" />
+        <mxCell id="RzPd5jYL5kc_TmFL2Cuv-20" value="$$\text{relu}(f(x)+x)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="680" y="295" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RzPd5jYL5kc_TmFL2Cuv-21" value="skip connection" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="305.82" y="210" width="129.5" height="30" as="geometry" />
