@@ -607,10 +607,10 @@
           <mxGeometry x="818" y="-857.81" width="40" height="35" as="geometry" />
         </mxCell>
         <mxCell id="QqnBztQA2FeejYi7aJF2-133" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Head for Recognition&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="867" y="-868" width="120" height="60" as="geometry" />
+          <mxGeometry x="867" y="-868" width="83" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QqnBztQA2FeejYi7aJF2-134" value="Head" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="850" y="-690" width="154" height="30" as="geometry" />
+          <mxGeometry x="831.5" y="-690" width="154" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QqnBztQA2FeejYi7aJF2-135" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-185" y="-980.9999999999999" width="330" height="280.69000000000005" as="geometry" />
