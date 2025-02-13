@@ -888,6 +888,9 @@
             <mxPoint x="807" y="-839.97" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QqnBztQA2FeejYi7aJF2-131" value="L &lt;font face=&quot;Helvetica&quot;&gt;x&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="723" y="-980" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
