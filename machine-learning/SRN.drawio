@@ -43,6 +43,9 @@
         <mxCell id="cvMqhqMfs5BdFeVytweX-13" value="Input layer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="60" y="360" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="cvMqhqMfs5BdFeVytweX-14" value="$$u$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="180" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
