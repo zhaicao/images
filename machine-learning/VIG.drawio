@@ -259,13 +259,13 @@
           <mxGeometry x="454.64" y="-765.02" width="162" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2hVkLTun02kOb67zJOuv-57" value="Network" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontFamily=Helvetica;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="330" y="-710" width="234" height="30" as="geometry" />
+          <mxGeometry x="330" y="-1000" width="234" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2hVkLTun02kOb67zJOuv-58" value="Image" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontFamily=Helvetica;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-344" y="-710" width="154" height="30" as="geometry" />
+          <mxGeometry x="-344" y="-1000" width="154" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2hVkLTun02kOb67zJOuv-59" value="Graph" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontFamily=Helvetica;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-57" y="-710" width="154" height="30" as="geometry" />
+          <mxGeometry x="-57" y="-1000" width="154" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2hVkLTun02kOb67zJOuv-136" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=60;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="227.5" y="-910.4" width="158" height="141" as="geometry" />
@@ -592,7 +592,7 @@
           <mxGeometry x="748.5" y="-872.4" width="111.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QqnBztQA2FeejYi7aJF2-134" value="Head" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontFamily=Helvetica;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="713" y="-710" width="154" height="30" as="geometry" />
+          <mxGeometry x="727.25" y="-1000" width="154" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QqnBztQA2FeejYi7aJF2-135" value="" style="group;aspect=fixed;fontSize=21;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-105" y="-945.9999999999999" width="250" height="212.64" as="geometry" />
