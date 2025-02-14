@@ -895,6 +895,12 @@
         <mxCell id="F_H9awTy2oLGj-WwZngn-203" value="Hidden layers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="667.25" y="780" width="147.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="F_H9awTy2oLGj-WwZngn-208" value="relu" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="647" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F_H9awTy2oLGj-WwZngn-209" value="relu" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="874.5" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
