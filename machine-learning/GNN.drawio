@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.13">
   <diagram name="第 1 页" id="o8FVquo6JbahrP2ZJFAv">
-    <mxGraphModel dx="986" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="691" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -886,13 +886,13 @@
             <mxPoint x="949.5" y="582.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F_H9awTy2oLGj-WwZngn-197" value="Input" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="F_H9awTy2oLGj-WwZngn-197" value="Input" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="343" y="658" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F_H9awTy2oLGj-WwZngn-199" value="Output" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="F_H9awTy2oLGj-WwZngn-199" value="Output" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="1054" y="658" width="96" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F_H9awTy2oLGj-WwZngn-203" value="Hidden layers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="F_H9awTy2oLGj-WwZngn-203" value="Hidden layers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="667.25" y="780" width="147.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F_H9awTy2oLGj-WwZngn-208" value="relu" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
@@ -900,6 +900,12 @@
         </mxCell>
         <mxCell id="F_H9awTy2oLGj-WwZngn-209" value="relu" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="874.5" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F_H9awTy2oLGj-WwZngn-210" value="Gconv" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="530" y="392" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F_H9awTy2oLGj-WwZngn-211" value="Gconv" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="760.5" y="388" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
