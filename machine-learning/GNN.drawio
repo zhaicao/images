@@ -892,6 +892,9 @@
         <mxCell id="F_H9awTy2oLGj-WwZngn-199" value="Output" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1138.5" y="718" width="96" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="F_H9awTy2oLGj-WwZngn-203" value="Hidden Layers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="708.75" y="900" width="147.5" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
