@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.12">
   <diagram name="第 1 页" id="LHeUYlA5HnH-P8TUve1t">
-    <mxGraphModel dx="658" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="789" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -176,16 +176,16 @@
         <mxCell id="MSncDrkIAbCbCqFgECyr-36" value="$$c_{t}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="130" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MSncDrkIAbCbCqFgECyr-39" value="$$f_t$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MSncDrkIAbCbCqFgECyr-39" value="$$f_t$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="114" y="218" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MSncDrkIAbCbCqFgECyr-41" value="$$i_t$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MSncDrkIAbCbCqFgECyr-41" value="$$i_t$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="184" y="237" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MSncDrkIAbCbCqFgECyr-42" value="$$\tilde{c}_t$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MSncDrkIAbCbCqFgECyr-42" value="$$\tilde{c}_t$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="255" y="247" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MSncDrkIAbCbCqFgECyr-43" value="$$o_t$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MSncDrkIAbCbCqFgECyr-43" value="$$o_t$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="325" y="267" width="20" height="30" as="geometry" />
         </mxCell>
       </root>
