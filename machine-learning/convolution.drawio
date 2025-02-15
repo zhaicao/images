@@ -178,7 +178,7 @@
         <mxCell id="99AfDLn0tlyLMIZODvCi-79" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.2990846129669497;arrowSize=0.43339791133485905;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="568" y="122" width="50" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="99AfDLn0tlyLMIZODvCi-80" value="" style="endArrow=block;html=1;rounded=0;endFill=1;fontSize=15;fontFamily=Times New Roman;" edge="1" parent="1">
+        <mxCell id="99AfDLn0tlyLMIZODvCi-80" value="" style="endArrow=async;html=1;rounded=0;endFill=1;fontSize=15;fontFamily=Times New Roman;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="50" as="sourcePoint" />
             <mxPoint x="340" y="50" as="targetPoint" />
