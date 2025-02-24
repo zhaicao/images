@@ -162,7 +162,7 @@
         <mxCell id="fm50z53q-H0IZ5_onClO-72" value="&lt;span style=&quot;text-align: start;&quot;&gt;$$\widetilde{h}^V_n$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="710.25" y="-804.0699999999999" width="50" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="fm50z53q-H0IZ5_onClO-73" value="Aspect-Oriented Multi-Head Attention&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="fm50z53q-H0IZ5_onClO-73" value="Aspect-Oriented Attention&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-46.72" y="-850.0899999999999" width="224" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fm50z53q-H0IZ5_onClO-74" value="Q" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
