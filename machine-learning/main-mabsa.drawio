@@ -819,8 +819,8 @@
         <mxCell id="t5jc6b4asMCD_DEtKxPd-213" value="Output Module" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="-738.97" y="-1087" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t5jc6b4asMCD_DEtKxPd-214" value="&lt;span style=&quot;color: rgb(36, 41, 47); font-family: &amp;quot;Microsoft YaHei&amp;quot;; text-align: start; background-color: rgba(0, 0, 0, 0.05);&quot;&gt;Aspect-guided Multi-modal Fusion Module&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="-739.14" y="-997" width="250.64" height="30" as="geometry" />
+        <mxCell id="t5jc6b4asMCD_DEtKxPd-214" value="&lt;span style=&quot;color: rgb(36, 41, 47); font-family: &amp;quot;Microsoft YaHei&amp;quot;; text-align: start; background-color: rgba(0, 0, 0, 0.05);&quot;&gt;Aspect-guided Multi-granularity Feature Fusion Module&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-734.14" y="-998" width="269.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t5jc6b4asMCD_DEtKxPd-216" value="Feature Extraction Module&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="-749.5699999999999" y="-457.05999999999995" width="177.14" height="29" as="geometry" />
