@@ -663,7 +663,7 @@
         <mxCell id="t5jc6b4asMCD_DEtKxPd-173" value="GCN layers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9D9D9;strokeColor=#23445d;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-205" y="-675" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t5jc6b4asMCD_DEtKxPd-174" value="GCN layers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9D9D9;strokeColor=#23445d;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="t5jc6b4asMCD_DEtKxPd-174" value="GCN Layers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9D9D9;strokeColor=#23445d;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-209.93" y="-670.21" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t5jc6b4asMCD_DEtKxPd-179" value="" style="endArrow=block;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;fontSize=15;" edge="1" parent="1" target="t5jc6b4asMCD_DEtKxPd-170">
@@ -742,7 +742,7 @@
             <mxPoint x="-654.22" y="-887.27" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t5jc6b4asMCD_DEtKxPd-193" value="&lt;span&gt;Multi-modal Interaction Layer&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="t5jc6b4asMCD_DEtKxPd-193" value="&lt;span&gt;Multi-modal Fusion Layer&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-459.2" y="-997" width="460" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t5jc6b4asMCD_DEtKxPd-195" value="" style="endArrow=block;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=1;fontSize=15;" edge="1" parent="1" source="fm50z53q-H0IZ5_onClO-636" target="t5jc6b4asMCD_DEtKxPd-193">
