@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="第 1 页" id="8k2AreSDYqxC22VC2qsZ">
-    <mxGraphModel dx="1183" dy="1407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="1">
+    <mxGraphModel dx="1246" dy="1448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -819,7 +819,7 @@
         <mxCell id="t5jc6b4asMCD_DEtKxPd-213" value="&lt;b&gt;Output Module&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="-738.97" y="-1088" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t5jc6b4asMCD_DEtKxPd-214" value="&lt;span style=&quot;color: rgb(36, 41, 47); font-family: &amp;quot;Microsoft YaHei&amp;quot;; text-align: start; background-color: rgba(0, 0, 0, 0.05);&quot;&gt;&lt;b&gt;Aspect-guided Multi-granularity Feature Fusion Module&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=0;" vertex="1" parent="1">
+        <mxCell id="t5jc6b4asMCD_DEtKxPd-214" value="&lt;span style=&quot;color: rgb(36, 41, 47); font-family: &amp;quot;Microsoft YaHei&amp;quot;; text-align: start;&quot;&gt;&lt;b style=&quot;&quot;&gt;Aspect-guided Multi-granularity Feature Fusion Module&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="-741.14" y="-998" width="284.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t5jc6b4asMCD_DEtKxPd-216" value="Feature Extraction Module&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=0;fontStyle=1" vertex="1" parent="1">
