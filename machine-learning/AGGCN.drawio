@@ -995,7 +995,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Zl_6zX65lW_YbLj7B-Cz-655" value="cosine&lt;div&gt;similarity&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-2320" y="-491.65999999999997" width="60" height="30" as="geometry" />
+          <mxGeometry x="-2319" y="-489.65999999999997" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Zl_6zX65lW_YbLj7B-Cz-661" value="$$\hat{H}_{VS}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-1450" y="-637.5" width="39.44" height="30" as="geometry" />
