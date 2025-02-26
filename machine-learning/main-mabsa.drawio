@@ -809,6 +809,12 @@
         <mxCell id="jNTsu1idLc-l55ja8Ald-3" value="$$H_A$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-18.5" y="-452.56" width="44.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="jNTsu1idLc-l55ja8Ald-4" value="$$H_{VS}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-446.5" y="-558.75" width="44.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jNTsu1idLc-l55ja8Ald-5" value="$$H_{V \rightarrow S}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-23.99000000000001" y="-782.0699999999999" width="44.5" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
