@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="第 1 页" id="8k2AreSDYqxC22VC2qsZ">
-    <mxGraphModel dx="2021" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="1">
+    <mxGraphModel dx="1305" dy="1487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -371,10 +371,10 @@
             <mxPoint x="-149" y="-519" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t5jc6b4asMCD_DEtKxPd-213" value="&lt;b&gt;Output Module&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="-738.97" y="-1069" width="130" height="30" as="geometry" />
+        <mxCell id="t5jc6b4asMCD_DEtKxPd-213" value="&lt;b&gt;Sentiment Prediction&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="-738.97" y="-1069" width="178.97" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t5jc6b4asMCD_DEtKxPd-214" value="&lt;span style=&quot;color: rgb(36, 41, 47); font-family: &amp;quot;Microsoft YaHei&amp;quot;; text-align: start;&quot;&gt;&lt;b style=&quot;&quot;&gt;Aspect-guided Multi-granularity Feature Fusion Module&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=0;" parent="1" vertex="1">
+        <mxCell id="t5jc6b4asMCD_DEtKxPd-214" value="&lt;span style=&quot;color: rgb(36, 41, 47); font-family: &amp;quot;Microsoft YaHei&amp;quot;; text-align: start;&quot;&gt;&lt;b style=&quot;&quot;&gt;Aspect-guided Multi-granularity Feature Fusion&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="-740.97" y="-977" width="284.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t5jc6b4asMCD_DEtKxPd-216" value="Feature Extraction Module&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=0;fontStyle=1" parent="1" vertex="1">
