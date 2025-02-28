@@ -25,16 +25,16 @@
         <mxCell id="kP-qsEJCwgDidAfiJVcr-11" value="图文关联矩阵" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="651.99" y="340.01" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kP-qsEJCwgDidAfiJVcr-12" value="图文关联矩阵" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="kP-qsEJCwgDidAfiJVcr-12" value="图文关联矩阵" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="651.99" y="624.01" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kP-qsEJCwgDidAfiJVcr-13" value="视觉注意力图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="217.22" y="340.01" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kP-qsEJCwgDidAfiJVcr-14" value="（1）方面“Robert Gates”可视化结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kP-qsEJCwgDidAfiJVcr-14" value="（1）方面“Robert Gates”的可视化结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="455" y="371.01" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kP-qsEJCwgDidAfiJVcr-15" value="（2）方面“Hillary Clinton”可视化结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kP-qsEJCwgDidAfiJVcr-15" value="（2）方面“Hillary Clinton”的可视化结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="455" y="654" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kP-qsEJCwgDidAfiJVcr-16" value="视觉注意力图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
