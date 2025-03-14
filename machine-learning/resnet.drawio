@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="第 1 页" id="1v8SXpoTdXkUn3yk3Jfs">
     <mxGraphModel dx="1194" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -25,10 +25,10 @@
             <mxPoint x="190" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RzPd5jYL5kc_TmFL2Cuv-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="RzPd5jYL5kc_TmFL2Cuv-5" target="RzPd5jYL5kc_TmFL2Cuv-20" edge="1">
+        <mxCell id="RzPd5jYL5kc_TmFL2Cuv-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="RzPd5jYL5kc_TmFL2Cuv-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="700" y="296.81" as="sourcePoint" />
-            <mxPoint x="670" y="310" as="targetPoint" />
+            <mxPoint x="678" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RzPd5jYL5kc_TmFL2Cuv-9" value="$$\text{relu}(x)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
@@ -70,9 +70,6 @@
         </mxCell>
         <mxCell id="RzPd5jYL5kc_TmFL2Cuv-19" value="$$f(x)+x$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="568.75" y="330" width="87.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RzPd5jYL5kc_TmFL2Cuv-20" value="$$\text{relu}(f(x)+x)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="678" y="295" width="119" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RzPd5jYL5kc_TmFL2Cuv-21" value="skip connection" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="319.25" y="210" width="129.5" height="30" as="geometry" />
