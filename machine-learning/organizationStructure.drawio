@@ -1,14 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="第 1 页" id="vcJ40VZtM2WvYGcIBnFR">
-    <mxGraphModel dx="1194" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="478" dy="318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hmpepv-ZfLbdPi0fOxTO-10" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#FFFFFF;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="110.01" y="130" width="620" height="148" as="geometry" />
         </mxCell>
-        <mxCell id="hmpepv-ZfLbdPi0fOxTO-2" value="&lt;font&gt;&lt;font style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;line-height: 22.5px; font-family: 黑体;&quot;&gt;基于方面感知与多通道特征交互的&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left; background-color: transparent; font-family: 黑体;&quot;&gt;方面级情感分析算法研究&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="220" y="86" width="400" height="30" as="geometry" />
+        <mxCell id="hmpepv-ZfLbdPi0fOxTO-2" value="&lt;font&gt;&lt;font style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;line-height: 22.5px; font-family: 黑体;&quot;&gt;基于方面感知与多通道特征交互的&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left; background-color: transparent; font-family: 黑体;&quot;&gt;方面级情感分析研究&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="235.01" y="87" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hmpepv-ZfLbdPi0fOxTO-3" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;绪论&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="387" y="139" width="66" height="30" as="geometry" />
