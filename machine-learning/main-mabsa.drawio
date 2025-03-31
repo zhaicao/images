@@ -290,10 +290,10 @@
           <mxGeometry x="-738.97" y="-1038" width="178.97" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t5jc6b4asMCD_DEtKxPd-214" value="&lt;span style=&quot;color: rgb(36, 41, 47); text-align: start;&quot;&gt;&lt;b style=&quot;&quot;&gt;Aspect-guided Multi-granularity Feature Fusion&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-740.97" y="-958" width="284.14" height="41" as="geometry" />
+          <mxGeometry x="-738.97" y="-958" width="260.97" height="41" as="geometry" />
         </mxCell>
         <mxCell id="t5jc6b4asMCD_DEtKxPd-216" value="Feature Extraction&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=0;fontStyle=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-746.5699999999999" y="-460.05999999999995" width="177.14" height="29" as="geometry" />
+          <mxGeometry x="-729.57" y="-460.06" width="152.57" height="29" as="geometry" />
         </mxCell>
         <mxCell id="t5jc6b4asMCD_DEtKxPd-217" value="Image-Text&amp;nbsp;&lt;div&gt;Association Matrix&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="-396.45" y="-559" width="147.99" height="30" as="geometry" />
