@@ -286,10 +286,10 @@
         <mxCell id="t5jc6b4asMCD_DEtKxPd-204" value="K" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="-610.4" y="-710.07" width="23" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="t5jc6b4asMCD_DEtKxPd-213" value="&lt;b&gt;Sentiment Prediction&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;rotation=0;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="t5jc6b4asMCD_DEtKxPd-213" value="&lt;span&gt;Sentiment Prediction&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;rotation=0;fontFamily=Times New Roman;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-730.97" y="-1043" width="178.97" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t5jc6b4asMCD_DEtKxPd-214" value="&lt;span style=&quot;color: rgb(36, 41, 47); text-align: start;&quot;&gt;&lt;b&gt;Aspect-guided Multi-granularity Feature Fusion&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;rotation=0;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="t5jc6b4asMCD_DEtKxPd-214" value="&lt;span style=&quot;color: rgb(36, 41, 47); text-align: start;&quot;&gt;&lt;span&gt;Aspect-guided Multi-granularity Feature Fusion&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;rotation=0;fontFamily=Times New Roman;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-730.97" y="-962" width="260.97" height="41" as="geometry" />
         </mxCell>
         <mxCell id="t5jc6b4asMCD_DEtKxPd-216" value="Feature Extraction&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;rotation=0;fontStyle=1;fontFamily=Times New Roman;" parent="1" vertex="1">
