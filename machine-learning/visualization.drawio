@@ -26,10 +26,10 @@
           <mxGeometry x="217.22" y="340.01" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kP-qsEJCwgDidAfiJVcr-14" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;$$\text{（1）方面“Robert Gates”的可视化结果}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="454" y="370" width="220" height="30" as="geometry" />
+          <mxGeometry x="415" y="370" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kP-qsEJCwgDidAfiJVcr-15" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;$$\text{（2）方面“Hillary Clinton”的可视化结果}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="455" y="654" width="220" height="30" as="geometry" />
+          <mxGeometry x="415" y="654" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kP-qsEJCwgDidAfiJVcr-16" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-weight: 700;&quot;&gt;$$\text{视觉注意力热力图}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Garamond;" parent="1" vertex="1">
           <mxGeometry x="217.22" y="623" width="170" height="30" as="geometry" />
