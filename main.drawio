@@ -652,10 +652,10 @@
             <mxPoint x="1019.7799999999997" y="-428" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7eN0rarvtx-bE8pj64Mk-1292" value="AveragePooling" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="7eN0rarvtx-bE8pj64Mk-1292" value="Average Pooling" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="1017.21" y="-900" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7eN0rarvtx-bE8pj64Mk-1297" value="AveragePooling" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="7eN0rarvtx-bE8pj64Mk-1297" value="Average Pooling" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="617.5600000000001" y="-900" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7eN0rarvtx-bE8pj64Mk-1400" value="" style="endArrow=blockThin;rounded=0;entryX=0.489;entryY=1.026;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endFill=1;html=1;fontFamily=Times New Roman;" parent="1" source="7eN0rarvtx-bE8pj64Mk-1395" target="7eN0rarvtx-bE8pj64Mk-1467" edge="1">
