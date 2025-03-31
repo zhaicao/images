@@ -295,8 +295,8 @@
         <mxCell id="t5jc6b4asMCD_DEtKxPd-216" value="Feature Extraction&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;rotation=0;fontStyle=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="-723.57" y="-463.06" width="152.57" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="t5jc6b4asMCD_DEtKxPd-217" value="Image-Text&amp;nbsp;&lt;div&gt;Association Matrix&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-396.45" y="-559" width="147.99" height="30" as="geometry" />
+        <mxCell id="t5jc6b4asMCD_DEtKxPd-217" value="Image-Text&amp;nbsp;&lt;div&gt;Association Matrix&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="-389.45" y="-557" width="147.99" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t7XDtM6mdYM950zwpHZq-123" value="" style="group;aspect=fixed;fontFamily=Times New Roman;fontSize=17;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-370.00000000000045" y="-618" width="100" height="57.31" as="geometry" />
