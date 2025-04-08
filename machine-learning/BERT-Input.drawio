@@ -10,34 +10,34 @@
         <mxCell id="gwdvWo7OpEAvEBSIEt_a-1" value="[CLS]" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="140" y="460" width="55.01" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gwdvWo7OpEAvEBSIEt_a-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;$$\text{百}$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;百&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="210" y="460" width="55.01" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gwdvWo7OpEAvEBSIEt_a-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;$$\text{竿}$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;竿&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="350" y="460" width="55.01" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gwdvWo7OpEAvEBSIEt_a-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;$$\text{头}$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;头&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="420" y="460" width="57.51" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gwdvWo7OpEAvEBSIEt_a-5" value="[SEP]" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="490" y="460" width="55.01" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gwdvWo7OpEAvEBSIEt_a-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;$$\text{进}$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;进&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="630" y="460" width="55.01" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gwdvWo7OpEAvEBSIEt_a-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;$$\text{一}$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;一&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="700" y="460" width="55.01" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gwdvWo7OpEAvEBSIEt_a-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;$$\text{尺}$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;尺&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="280" y="460" width="55.01" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gwdvWo7OpEAvEBSIEt_a-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;$$\text{更}$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;更&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="560" y="460" width="55.01" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gwdvWo7OpEAvEBSIEt_a-10" value="&lt;span style=&quot;font-size: 16px; font-weight: normal;&quot;&gt;输入序列&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="60" y="465" width="67" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gwdvWo7OpEAvEBSIEt_a-11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;$$\text{步}$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;步&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="770" y="460" width="55.01" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gwdvWo7OpEAvEBSIEt_a-12" value="[SEP]" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;" parent="1" vertex="1">
@@ -118,13 +118,13 @@
         <mxCell id="gwdvWo7OpEAvEBSIEt_a-37" value="$$E_{\text{[CLS]}}$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="140" y="220" width="55.01" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gwdvWo7OpEAvEBSIEt_a-38" value="$$E_{\text{百}}$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-38" value="$$E_{百}$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="210" y="220" width="55.01" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gwdvWo7OpEAvEBSIEt_a-39" value="$$E_{\text{竿}}$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-39" value="$$E_{竿}$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="350" y="220" width="55.01" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gwdvWo7OpEAvEBSIEt_a-40" value="$$E_{\text{头}}$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-40" value="$$E_{头}$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="420" y="220" width="57.51" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gwdvWo7OpEAvEBSIEt_a-41" value="$$E_{\text{[SEP]}}$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -133,19 +133,19 @@
         <mxCell id="gwdvWo7OpEAvEBSIEt_a-42" value="$$E_{\text{进}}$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="630" y="220" width="55.01" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gwdvWo7OpEAvEBSIEt_a-43" value="$$E_{\text{一}}$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-43" value="$$E_{一}$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="700" y="220" width="55.01" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gwdvWo7OpEAvEBSIEt_a-44" value="$$E_{\text{尺}}$$" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-44" value="$$E_{尺}$$" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="280" y="220" width="55.01" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gwdvWo7OpEAvEBSIEt_a-45" value="$$E_{\text{更}}$$" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-45" value="$$E_{更}$$" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="560" y="220" width="55.01" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gwdvWo7OpEAvEBSIEt_a-46" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;词嵌入&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="63.5" y="225" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gwdvWo7OpEAvEBSIEt_a-47" value="$$E_{\text{步}}$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="gwdvWo7OpEAvEBSIEt_a-47" value="$$E_{步}$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="770" y="220" width="55.01" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gwdvWo7OpEAvEBSIEt_a-48" value="$$E_{\text{[SEP]}}$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
