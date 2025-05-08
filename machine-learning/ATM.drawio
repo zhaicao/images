@@ -144,10 +144,10 @@
         <mxCell id="y7PeoEtyBzaCK5qJtURC-28" value="$$H_{A \rightarrow S}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="230.5" y="370" width="39" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="y7PeoEtyBzaCK5qJtURC-32" value="AVM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="y7PeoEtyBzaCK5qJtURC-32" value="AVM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="218" y="540" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y7PeoEtyBzaCK5qJtURC-33" value="ATM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="y7PeoEtyBzaCK5qJtURC-33" value="ATM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="435" y="690" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
